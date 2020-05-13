@@ -1,2 +1,2 @@
 # startup-california
-Tesla model S vlog squad management
+template for the new landing page.
